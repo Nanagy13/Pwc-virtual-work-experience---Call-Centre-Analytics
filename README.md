@@ -39,11 +39,13 @@ Dataset: 01 Call Centre Trends invluded in the files
 
 ## Data Visualization 
 Data Visualization was created in power bi , it shows the call centre trends
-![Alt text](path_to_image.png)
+![Alt](Screenshot_20241110_135708.jpg)
 
 ## Data Analysis
 The below measures were created for the analysis:
-● Average of seed of answerd = AVERAGE('call centre trends'[Speed of answer in seconds])
+
+● Average of seed of answerd = 
+AVERAGE('call centre trends'[Speed of answer in seconds])
 
 ● Average of statisfaction = AVERAGE('call centre trends'[Satisfaction rating])
 
